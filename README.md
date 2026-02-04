@@ -1,14 +1,20 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  📝 N01D NOTES  ·  Markdown Note-Taking with Live Preview     ║
-╚═══════════════════════════════════════════════════════════════╝
+███╗   ██╗ ██████╗  ██╗██████╗     ███╗   ██╗ ██████╗ ████████╗███████╗███████╗
+████╗  ██║██╔═══██╗███║██╔══██╗    ████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔════╝
+██╔██╗ ██║██║   ██║╚██║██║  ██║    ██╔██╗ ██║██║   ██║   ██║   █████╗  ███████╗
+██║╚██╗██║██║   ██║ ██║██║  ██║    ██║╚██╗██║██║   ██║   ██║   ██╔══╝  ╚════██║
+██║ ╚████║╚██████╔╝ ██║██████╔╝    ██║ ╚████║╚██████╔╝   ██║   ███████╗███████║
+╚═╝  ╚═══╝ ╚═════╝  ╚═╝╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝
+                  [ MARKDOWN NOTE-TAKING | bad-antics ]
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+**Markdown notes with live preview**
 
 </div>
 
@@ -37,7 +43,7 @@ python3 n01d-notes.py
 
 ---
 
-## ⌨️ Keyboard Shortcuts
+## ⌨️ Shortcuts
 
 | Shortcut | Action |
 |----------|--------|
@@ -49,19 +55,18 @@ python3 n01d-notes.py
 
 ---
 
-## 🔗 Part of the N01D Suite
+## 🔗 N01D Suite
 
 | App | Description |
 |-----|-------------|
 | **[N01D-Term](https://github.com/bad-antics/n01d-term)** | Terminal |
 | **[N01D-Notes](https://github.com/bad-antics/n01d-notes)** | Markdown notes |
 | **[N01D-SysMon](https://github.com/bad-antics/n01d-sysmon)** | System monitor |
-| **[N01D-Media](https://github.com/bad-antics/n01d-media)** | Media suite |
 
 ---
 
 <div align="center">
 
-**[GitHub](https://github.com/bad-antics)** • **[NullSec](https://github.com/bad-antics/nullsec)**
+**[GitHub](https://github.com/bad-antics)** · **[NullSec](https://github.com/bad-antics/nullsec)**
 
 </div>
